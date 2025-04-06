@@ -1,0 +1,19 @@
+body{ font-family: 'Dubai Medium', 'Times New Roman';  }
+@font-face { src: url(/fonts/CordaleArabic-Regular-1.ttf); font-family: hel; }
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+
+}
+ #container div{
+    height:300px;
+    width: 300px;
+    background-color: aquamarine;
+    margin: 60px;
+    text-align: center;
+
+
+
+}
